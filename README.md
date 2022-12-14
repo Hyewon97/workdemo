@@ -49,3 +49,18 @@
     |:--:|:--:|:--:|
     |홍길동|서울시|02-1234-23456|
     |여진구|경기도|031_2234-2342|
+
+
+### 코드(code)
+#### 1) 인라인 코드(inline code)
+    - 백틱(`)으로 강조할 내용을 감싼다.
+    repository에서 프로젝트의 설명을 부여해줄때 `READMe.md`을 사용한다
+
+### 2) 블록코드 (block code)
+- 백틱(`) 3개로 html, css, java등 코드를 작성할때 사용한다.
+
+    ```java
+     public static void main(String[] args){
+        system.out.println("Hello Java");
+     }
+    ```
